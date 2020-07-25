@@ -1,0 +1,1 @@
+A simple tool to parse a AGS file.
